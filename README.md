@@ -20,5 +20,5 @@ A simple library system that allows members to borrow and return books. Built en
 Run files in order:  
 1. `schema/create_tables.sql`  
 2. `test_data/insert_sample_data.sql`  
-3. Procedures & triggers  
+3. Views,Procedures & triggers  
 4. Run `queries/example_queries.sql`
